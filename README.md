@@ -67,7 +67,7 @@
     "gender": "male"
   },
   {
-    "firstName": "Mmina",
+    "firstName": "madhu",
     "lastName": "Sweety",
     "gender": "male"
   },
@@ -98,6 +98,6 @@
   {
     "firstName": "Rmina",
     "lastName": "Sweety",
-    "gender": "male"
+    "gender": "mle"
   }
 ]
