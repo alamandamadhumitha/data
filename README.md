@@ -33,71 +33,71 @@
     "gender": "male"
   },
   {
-    "firstName": "Gmina",
+    "firstName": "saranya",
     "lastName": "Sweety",
     "gender": "male"
   },
   {
-    "firstName": "Hmina",
+    "firstName": "bavya",
     "lastName": "Sweety",
     "gender": "female"
   },
 
   {
-    "firstName": "Imina",
-    "lastName": "Sweety",
-    "gender": "male"
-  },
-
-  {
-    "firstName": "Jmina",
-    "lastName": "Sweety",
-    "gender": "female"
-  },
-
-  {
-    "firstName": "Kmina",
-    "lastName": "Sweety",
-    "gender": "female"
-  },
-
-  {
-    "firstName": "Lmina",
-    "lastName": "Sweety",
-    "gender": "male"
-  },
-  {
-    "firstName": "madhu",
-    "lastName": "Sweety",
-    "gender": "male"
-  },
-  {
-    "firstName": Nmina",
-    "lastName": "Sweety",
-    "gender": "female"
-  },
-
-  {
-    "firstName": "Omina",
+    "firstName": "karan",
     "lastName": "Sweety",
     "gender": "male"
   },
 
   {
-    "firstName": "Pmina",
+    "firstName": "danu",
     "lastName": "Sweety",
     "gender": "female"
   },
 
   {
-    "firstName": "Qmina",
+    "firstName": "mandy",
     "lastName": "Sweety",
     "gender": "female"
   },
 
   {
-    "firstName": "Rmina",
+    "firstName": "rahul",
     "lastName": "Sweety",
-    "gender": "mle"
+    "gender": "male"
+  },
+  {
+    "firstName": "aliya",
+    "lastName": "Sweety",
+    "gender": "male"
+  },
+  {
+    "firstName": "mahesh",
+    "lastName": "Sweety",
+    "gender": "female"
+  },
+
+  {
+    "firstName": "Chandu",
+    "lastName": "Sweety",
+    "gender": "male"
+  },
+
+  {
+    "firstName": "Divya",
+    "lastName": "Sweety",
+    "gender": "female"
+  },
+
+  {
+    "firstName": "anvi",
+    "lastName": "Sweety",
+    "gender": "female"
+  },
+
+  {
+    "firstName": "ajju",
+    "lastName": "Sweety",
+    "gender": "male"
   }
 ]
