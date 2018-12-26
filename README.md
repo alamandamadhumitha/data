@@ -33,70 +33,70 @@
     "gender": "male"
   },
   {
-    "firstName": "Amina",
+    "firstName": "Gmina",
     "lastName": "Sweety",
     "gender": "male"
   },
   {
-    "firstName": "Bmina",
+    "firstName": "Hmina",
     "lastName": "Sweety",
     "gender": "female"
   },
 
   {
-    "firstName": "Cmina",
-    "lastName": "Sweety",
-    "gender": "male"
-  },
-
-  {
-    "firstName": "Dmina",
-    "lastName": "Sweety",
-    "gender": "female"
-  },
-
-  {
-    "firstName": "Emina",
-    "lastName": "Sweety",
-    "gender": "female"
-  },
-
-  {
-    "firstName": "Fmina",
-    "lastName": "Sweety",
-    "gender": "male"
-  },
-  {
-    "firstName": "Amina",
-    "lastName": "Sweety",
-    "gender": "male"
-  },
-  {
-    "firstName": "Bmina",
-    "lastName": "Sweety",
-    "gender": "female"
-  },
-
-  {
-    "firstName": "Cmina",
+    "firstName": "Imina",
     "lastName": "Sweety",
     "gender": "male"
   },
 
   {
-    "firstName": "Dmina",
+    "firstName": "Jmina",
     "lastName": "Sweety",
     "gender": "female"
   },
 
   {
-    "firstName": "Emina",
+    "firstName": "Kmina",
     "lastName": "Sweety",
     "gender": "female"
   },
 
   {
-    "firstName": "Fmina",
+    "firstName": "Lmina",
+    "lastName": "Sweety",
+    "gender": "male"
+  },
+  {
+    "firstName": "Mmina",
+    "lastName": "Sweety",
+    "gender": "male"
+  },
+  {
+    "firstName": Nmina",
+    "lastName": "Sweety",
+    "gender": "female"
+  },
+
+  {
+    "firstName": "Omina",
+    "lastName": "Sweety",
+    "gender": "male"
+  },
+
+  {
+    "firstName": "Pmina",
+    "lastName": "Sweety",
+    "gender": "female"
+  },
+
+  {
+    "firstName": "Qmina",
+    "lastName": "Sweety",
+    "gender": "female"
+  },
+
+  {
+    "firstName": "Rmina",
     "lastName": "Sweety",
     "gender": "male"
   }
